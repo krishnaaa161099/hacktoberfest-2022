@@ -1,0 +1,3 @@
+LLD
+HLD
+SOLID principle
